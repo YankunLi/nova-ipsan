@@ -26,6 +26,8 @@ implement a dictionary interface. However, a future goal is to have all of
 these objects be simple dictionaries.
 
 """
+#change at 20150415 add ipsan api
+#author :liyankun
 from oslo.config import cfg
 
 from nova.cells import rpcapi as cells_rpcapi
